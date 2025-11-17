@@ -76,3 +76,4 @@ if score >= 5:
     print("You have a high chance of surviving the hurricane!")
 else:
     print("Your chances of survival are low. Prepare better!")
+input("\n Press Enter to exit...")
